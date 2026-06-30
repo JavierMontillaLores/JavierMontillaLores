@@ -36,8 +36,11 @@ I'm passionate about combining **business** and **technology** to solve real-wor
 Python • SQL • JavaScript • TypeScript • FastAPI • React • PostgreSQL • Docker • Git
 
 ## Contact
-
+Student Email:
 📧 javier.montilla.lores@student.kuleuven.be
+
+Personal Email
+📧 javier.montilla.lores@gmail.com
 
 LinkedIn:
 https://linkedin.com/in/javier-montilla-lores
