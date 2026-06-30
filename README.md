@@ -37,7 +37,7 @@ Python • SQL • JavaScript • TypeScript • FastAPI • React • PostgreSQ
 
 ## Contact
 Student Email:
-📧 javier.montilla.lores@student.kuleuven.be
+📧 javier.montillalores@student.kuleuven.be
 
 Personal Email
 📧 javier.montilla.lores@gmail.com
