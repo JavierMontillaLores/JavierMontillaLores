@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Javier Montilla 👋
 
-<!--
-**JavierMontillaLores/JavierMontillaLores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Business Administration student at **KU Leuven**
 
-Here are some ideas to get you started:
+I'm passionate about combining **business** and **technology** to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 📊 Data Analytics
+- 💼 Finance
+- 📦 Supply Chain
+- 📈 Strategy
+- 💻 Full-Stack Development
+
+## Currently Learning
+
+- FastAPI
+- React
+- PostgreSQL
+- Docker
+- Large Language Models (LLMs)
+- AI Agents
+
+## Featured Projects
+
+🚀 Coming soon...
+
+- AI Business Dashboard
+- Customer Service Chatbot
+- Supply Chain Optimizer
+- Financial Analytics Dashboard
+
+## Technologies
+
+Python • SQL • JavaScript • TypeScript • FastAPI • React • PostgreSQL • Docker • Git
+
+## Contact
+
+📧 javier.montilla.lores@student.kuleuven.be
+
+LinkedIn:
+https://linkedin.com/in/javier-montilla-lores
